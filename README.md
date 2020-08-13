@@ -1,4 +1,5 @@
-# Shoppinglistrecipebook
+# ShoppingListRecipebook
+This is a project based on Angular Framework in which I tried to use almost all features of Angular.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
 
