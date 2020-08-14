@@ -8,9 +8,9 @@
 <hr>
 <div class="row">
 <div class="col-xs-12">
-    <div *ngFor="let x of recipes">
-    <app-recipe-item [recipe]='x'></app-recipe-item>
-</div>
+    <app-recipe-item *ngFor="let x of recipes" 
+    [recipe]='x'></app-recipe-item>
+
 </div>
 </div>
 
